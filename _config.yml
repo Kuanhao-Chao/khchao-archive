@@ -11,7 +11,7 @@ title                    : "Kuan-Hao Chao"
 title_separator          : "-"
 name                     : &name "Kuan-Hao Chao"
 description              : &description "CS Ph.D. student @ Center for Computational Biology, JHU, US<br><br>"
-url                      : https://kuanhao-chao.github.io
+url                      : https://archive.khchao.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kuanhao-chao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
